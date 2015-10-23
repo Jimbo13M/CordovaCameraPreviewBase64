@@ -2,7 +2,7 @@
 
 <b>Require Apache Cordova and CordovaCameraPreview (iOS Only)</b>
 
-A simple and light modification made to the excellent and very convenient <a href="https://github.com/mbppower/CordovaCameraPreview">CordovaCameraPreview</a> by <a href="https://github.com/mbppower">mbppower</a> that enables you to get a base64 image in return when a user takes a photo with this plugin.
+A simple and light modification made to the excellent and very convenient <a href="https://github.com/mbppower/CordovaCameraPreview">CordovaCameraPreview</a> by <a href="https://github.com/mbppower">mbppower</a> that enables you to get a base64 jpg image in return when a user takes a photo with this plugin.
 
 This modification also prevent the application from adding the photo in the iOS photo library.
 
